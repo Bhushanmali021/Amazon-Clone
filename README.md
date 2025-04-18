@@ -1,13 +1,14 @@
-#Amazon Clone Website
-Link http://127.0.0.1:5500/index.html
+Amazon Clone 
 
-#Project Overview
+
+
+Project Overview
 
 This project is a fully responsive front-end clone of the Amazon e-commerce website, built using HTML and CSS. The goal was to replicate the core design, layout, and user interface of Amazon's homepage and key features, demonstrating proficiency in modern web development techniques. The project showcases clean code, attention to detail, and a strong understanding of responsive design principles.
 
 This is a frontend-only project, focusing on creating a pixel-perfect replica of Amazon's UI, including the header, product listings, footer, and navigation components. It serves as a portfolio piece to highlight my skills in HTML, CSS, and front-end development.
 
-#Features
+Features
 
 
 
@@ -53,4 +54,5 @@ Version Control: Git for tracking changes and collaboration.
 
 
 
+Link http://127.0.0.1:5500/index.html
 
