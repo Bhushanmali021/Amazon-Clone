@@ -1,4 +1,5 @@
 #Amazon Clone Website
+Link http://127.0.0.1:5500/index.html
 
 #Project Overview
 
@@ -50,10 +51,6 @@ CSS3: Advanced styling with Flexbox, Grid, and media queries for responsiveness.
 
 Version Control: Git for tracking changes and collaboration.
 
-#Screenshots
 
 
 
-Note: Replace the screenshot paths above with actual paths to screenshots of your project. You can add these by taking screenshots and placing them in a screenshots folder in your repository.
-
-Installation and Setup
